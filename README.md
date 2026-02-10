@@ -15,7 +15,8 @@
 
 ### Overview :
 
-This project is a full-stack web application built with Django.
+This project is a full-stack web application built with Django. 
+Developed for KZ School to track Attendance and Other Updates  | The project has under gone various phases and this is the First sprint Repo made available as public.
 It exposes a REST API, uses background workers for async tasks, and is deployed using Docker.
 
 **Technology stack**
