@@ -1,5 +1,7 @@
 # Django-modular-app
 
+![stack: JavaScript](https://img.shields.io/badge/stack-JavaScript-F7DF1E) ![stack: Python](https://img.shields.io/badge/stack-Python-3776AB) ![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6) ![stack: HTML](https://img.shields.io/badge/stack-HTML-E34F26) ![platform: Web](https://img.shields.io/badge/platform-Web-6f42c1)
+
 This project is a full-stack web application built with Django for School's  for Attendance tracking and updates
 
 ## Overview
